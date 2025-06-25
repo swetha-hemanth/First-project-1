@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>About</title></head>
+<body>
+  <h1>About Swetha</h1>
+  <p>I’m learning Cloud Architecture and building awesome websites!</p>
+  <a href="index.html">Back to Home</a>
+</body>
+</html>
